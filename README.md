@@ -1,0 +1,1 @@
+export PYTHONPATH=.:./ddk/tools/tools_dopt/dopt_pytorch_py3
